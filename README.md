@@ -1,5 +1,6 @@
 # LSSF-Token
 LSSF Token is a non-profit blockchain project supporting children and environmental protection through transparent monthly donations.
+ https://bscscan.com/token/0x9443538048e3e0fb87db9776da06591c2012292f
 We have successfully locked our Liquidity and Team Tokens. Since some external certificate links are currently experiencing display issues, please verify our locks directly through the following On-Chain Transaction Hashes:
 
 1. Team Token Lock (95,520,000 LSSF):https://mudra.website/tokenlocker?certificate=0
